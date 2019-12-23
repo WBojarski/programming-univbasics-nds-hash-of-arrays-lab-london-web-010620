@@ -8,8 +8,7 @@ def add_character(show, name)
   :jetsons => ["George", "Jane", "Judy", "Elroy"]
 }
 	base_hoa[show] << name
-	base_hoa[show] << name
-	base_hoa[show] << name
+
 
 	
 end
